@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\saddle-points\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\saddle-points\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\saddle-points\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\saddle-points\bin\Debug\netcoreapp2.1\SaddlePoints.deps.json
+C:\Users\Chauh\Exercism\csharp\saddle-points\bin\Debug\netcoreapp2.1\SaddlePoints.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\saddle-points\bin\Debug\netcoreapp2.1\SaddlePoints.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\saddle-points\bin\Debug\netcoreapp2.1\SaddlePoints.dll
+C:\Users\Chauh\Exercism\csharp\saddle-points\bin\Debug\netcoreapp2.1\SaddlePoints.pdb
+C:\Users\Chauh\Exercism\csharp\saddle-points\obj\Debug\netcoreapp2.1\SaddlePoints.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\saddle-points\obj\Debug\netcoreapp2.1\SaddlePoints.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\saddle-points\obj\Debug\netcoreapp2.1\SaddlePoints.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\saddle-points\obj\Debug\netcoreapp2.1\SaddlePoints.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\saddle-points\obj\Debug\netcoreapp2.1\SaddlePoints.dll
+C:\Users\Chauh\Exercism\csharp\saddle-points\obj\Debug\netcoreapp2.1\SaddlePoints.pdb

@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\word-count\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\word-count\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\word-count\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\word-count\bin\Debug\netcoreapp2.1\WordCount.deps.json
+C:\Users\Chauh\Exercism\csharp\word-count\bin\Debug\netcoreapp2.1\WordCount.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\word-count\bin\Debug\netcoreapp2.1\WordCount.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\word-count\bin\Debug\netcoreapp2.1\WordCount.dll
+C:\Users\Chauh\Exercism\csharp\word-count\bin\Debug\netcoreapp2.1\WordCount.pdb
+C:\Users\Chauh\Exercism\csharp\word-count\obj\Debug\netcoreapp2.1\WordCount.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\word-count\obj\Debug\netcoreapp2.1\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\word-count\obj\Debug\netcoreapp2.1\WordCount.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\word-count\obj\Debug\netcoreapp2.1\WordCount.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\word-count\obj\Debug\netcoreapp2.1\WordCount.dll
+C:\Users\Chauh\Exercism\csharp\word-count\obj\Debug\netcoreapp2.1\WordCount.pdb

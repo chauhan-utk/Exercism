@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\rational-numbers\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\rational-numbers\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\rational-numbers\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\rational-numbers\bin\Debug\netcoreapp2.1\RationalNumbers.deps.json
+C:\Users\Chauh\Exercism\csharp\rational-numbers\bin\Debug\netcoreapp2.1\RationalNumbers.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\rational-numbers\bin\Debug\netcoreapp2.1\RationalNumbers.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\rational-numbers\bin\Debug\netcoreapp2.1\RationalNumbers.dll
+C:\Users\Chauh\Exercism\csharp\rational-numbers\bin\Debug\netcoreapp2.1\RationalNumbers.pdb
+C:\Users\Chauh\Exercism\csharp\rational-numbers\obj\Debug\netcoreapp2.1\RationalNumbers.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\rational-numbers\obj\Debug\netcoreapp2.1\RationalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\rational-numbers\obj\Debug\netcoreapp2.1\RationalNumbers.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\rational-numbers\obj\Debug\netcoreapp2.1\RationalNumbers.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\rational-numbers\obj\Debug\netcoreapp2.1\RationalNumbers.dll
+C:\Users\Chauh\Exercism\csharp\rational-numbers\obj\Debug\netcoreapp2.1\RationalNumbers.pdb

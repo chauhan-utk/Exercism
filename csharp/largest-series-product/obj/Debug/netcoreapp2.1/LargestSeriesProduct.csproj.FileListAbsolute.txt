@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\largest-series-product\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\largest-series-product\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\largest-series-product\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\largest-series-product\bin\Debug\netcoreapp2.1\LargestSeriesProduct.deps.json
+C:\Users\Chauh\Exercism\csharp\largest-series-product\bin\Debug\netcoreapp2.1\LargestSeriesProduct.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\largest-series-product\bin\Debug\netcoreapp2.1\LargestSeriesProduct.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\largest-series-product\bin\Debug\netcoreapp2.1\LargestSeriesProduct.dll
+C:\Users\Chauh\Exercism\csharp\largest-series-product\bin\Debug\netcoreapp2.1\LargestSeriesProduct.pdb
+C:\Users\Chauh\Exercism\csharp\largest-series-product\obj\Debug\netcoreapp2.1\LargestSeriesProduct.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\largest-series-product\obj\Debug\netcoreapp2.1\LargestSeriesProduct.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\largest-series-product\obj\Debug\netcoreapp2.1\LargestSeriesProduct.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\largest-series-product\obj\Debug\netcoreapp2.1\LargestSeriesProduct.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\largest-series-product\obj\Debug\netcoreapp2.1\LargestSeriesProduct.dll
+C:\Users\Chauh\Exercism\csharp\largest-series-product\obj\Debug\netcoreapp2.1\LargestSeriesProduct.pdb

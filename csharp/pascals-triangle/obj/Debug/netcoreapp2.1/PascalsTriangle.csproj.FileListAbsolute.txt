@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\bin\Debug\netcoreapp2.1\PascalsTriangle.deps.json
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\bin\Debug\netcoreapp2.1\PascalsTriangle.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\bin\Debug\netcoreapp2.1\PascalsTriangle.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\bin\Debug\netcoreapp2.1\PascalsTriangle.dll
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\bin\Debug\netcoreapp2.1\PascalsTriangle.pdb
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\obj\Debug\netcoreapp2.1\PascalsTriangle.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\obj\Debug\netcoreapp2.1\PascalsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\obj\Debug\netcoreapp2.1\PascalsTriangle.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\obj\Debug\netcoreapp2.1\PascalsTriangle.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\obj\Debug\netcoreapp2.1\PascalsTriangle.dll
+C:\Users\Chauh\Exercism\csharp\pascals-triangle\obj\Debug\netcoreapp2.1\PascalsTriangle.pdb

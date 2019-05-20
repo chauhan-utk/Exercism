@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\obj\Debug\netcoreapp2.1\SimpleLinkedList.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\obj\Debug\netcoreapp2.1\SimpleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\obj\Debug\netcoreapp2.1\SimpleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\obj\Debug\netcoreapp2.1\SimpleLinkedList.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\bin\Debug\netcoreapp2.1\SimpleLinkedList.deps.json
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\bin\Debug\netcoreapp2.1\SimpleLinkedList.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\bin\Debug\netcoreapp2.1\SimpleLinkedList.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\bin\Debug\netcoreapp2.1\SimpleLinkedList.dll
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\bin\Debug\netcoreapp2.1\SimpleLinkedList.pdb
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\obj\Debug\netcoreapp2.1\SimpleLinkedList.dll
+C:\Users\Chauh\Exercism\csharp\simple-linked-list\obj\Debug\netcoreapp2.1\SimpleLinkedList.pdb

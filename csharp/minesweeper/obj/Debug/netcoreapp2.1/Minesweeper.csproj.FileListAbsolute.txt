@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\minesweeper\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\minesweeper\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\minesweeper\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\minesweeper\bin\Debug\netcoreapp2.1\Minesweeper.deps.json
+C:\Users\Chauh\Exercism\csharp\minesweeper\bin\Debug\netcoreapp2.1\Minesweeper.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\minesweeper\bin\Debug\netcoreapp2.1\Minesweeper.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\minesweeper\bin\Debug\netcoreapp2.1\Minesweeper.dll
+C:\Users\Chauh\Exercism\csharp\minesweeper\bin\Debug\netcoreapp2.1\Minesweeper.pdb
+C:\Users\Chauh\Exercism\csharp\minesweeper\obj\Debug\netcoreapp2.1\Minesweeper.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\minesweeper\obj\Debug\netcoreapp2.1\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\minesweeper\obj\Debug\netcoreapp2.1\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\minesweeper\obj\Debug\netcoreapp2.1\Minesweeper.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\minesweeper\obj\Debug\netcoreapp2.1\Minesweeper.dll
+C:\Users\Chauh\Exercism\csharp\minesweeper\obj\Debug\netcoreapp2.1\Minesweeper.pdb

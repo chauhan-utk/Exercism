@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\anagram\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\anagram\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\anagram\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\anagram\bin\Debug\netcoreapp2.1\Anagram.deps.json
+C:\Users\Chauh\Exercism\csharp\anagram\bin\Debug\netcoreapp2.1\Anagram.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\anagram\bin\Debug\netcoreapp2.1\Anagram.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\anagram\bin\Debug\netcoreapp2.1\Anagram.dll
+C:\Users\Chauh\Exercism\csharp\anagram\bin\Debug\netcoreapp2.1\Anagram.pdb
+C:\Users\Chauh\Exercism\csharp\anagram\obj\Debug\netcoreapp2.1\Anagram.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\anagram\obj\Debug\netcoreapp2.1\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\anagram\obj\Debug\netcoreapp2.1\Anagram.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\anagram\obj\Debug\netcoreapp2.1\Anagram.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\anagram\obj\Debug\netcoreapp2.1\Anagram.dll
+C:\Users\Chauh\Exercism\csharp\anagram\obj\Debug\netcoreapp2.1\Anagram.pdb

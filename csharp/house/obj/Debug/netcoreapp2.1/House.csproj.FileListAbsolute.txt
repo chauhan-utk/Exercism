@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\house\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\house\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\house\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\house\bin\Debug\netcoreapp2.1\House.deps.json
+C:\Users\Chauh\Exercism\csharp\house\bin\Debug\netcoreapp2.1\House.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\house\bin\Debug\netcoreapp2.1\House.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\house\bin\Debug\netcoreapp2.1\House.dll
+C:\Users\Chauh\Exercism\csharp\house\bin\Debug\netcoreapp2.1\House.pdb
+C:\Users\Chauh\Exercism\csharp\house\obj\Debug\netcoreapp2.1\House.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\house\obj\Debug\netcoreapp2.1\House.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\house\obj\Debug\netcoreapp2.1\House.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\house\obj\Debug\netcoreapp2.1\House.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\house\obj\Debug\netcoreapp2.1\House.dll
+C:\Users\Chauh\Exercism\csharp\house\obj\Debug\netcoreapp2.1\House.pdb

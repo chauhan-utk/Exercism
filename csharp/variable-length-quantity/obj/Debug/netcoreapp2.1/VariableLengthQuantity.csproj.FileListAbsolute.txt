@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\bin\Debug\netcoreapp2.1\VariableLengthQuantity.deps.json
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\bin\Debug\netcoreapp2.1\VariableLengthQuantity.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\bin\Debug\netcoreapp2.1\VariableLengthQuantity.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\bin\Debug\netcoreapp2.1\VariableLengthQuantity.dll
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\bin\Debug\netcoreapp2.1\VariableLengthQuantity.pdb
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\obj\Debug\netcoreapp2.1\VariableLengthQuantity.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\obj\Debug\netcoreapp2.1\VariableLengthQuantity.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\obj\Debug\netcoreapp2.1\VariableLengthQuantity.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\obj\Debug\netcoreapp2.1\VariableLengthQuantity.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\obj\Debug\netcoreapp2.1\VariableLengthQuantity.dll
+C:\Users\Chauh\Exercism\csharp\variable-length-quantity\obj\Debug\netcoreapp2.1\VariableLengthQuantity.pdb

@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\food-chain\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\food-chain\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\food-chain\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\food-chain\bin\Debug\netcoreapp2.1\FoodChain.deps.json
+C:\Users\Chauh\Exercism\csharp\food-chain\bin\Debug\netcoreapp2.1\FoodChain.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\food-chain\bin\Debug\netcoreapp2.1\FoodChain.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\food-chain\bin\Debug\netcoreapp2.1\FoodChain.dll
+C:\Users\Chauh\Exercism\csharp\food-chain\bin\Debug\netcoreapp2.1\FoodChain.pdb
+C:\Users\Chauh\Exercism\csharp\food-chain\obj\Debug\netcoreapp2.1\FoodChain.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\food-chain\obj\Debug\netcoreapp2.1\FoodChain.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\food-chain\obj\Debug\netcoreapp2.1\FoodChain.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\food-chain\obj\Debug\netcoreapp2.1\FoodChain.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\food-chain\obj\Debug\netcoreapp2.1\FoodChain.dll
+C:\Users\Chauh\Exercism\csharp\food-chain\obj\Debug\netcoreapp2.1\FoodChain.pdb

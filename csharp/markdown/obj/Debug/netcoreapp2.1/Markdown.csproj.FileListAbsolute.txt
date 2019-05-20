@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\markdown\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\markdown\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\markdown\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\markdown\bin\Debug\netcoreapp2.1\Markdown.deps.json
+C:\Users\Chauh\Exercism\csharp\markdown\bin\Debug\netcoreapp2.1\Markdown.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\markdown\bin\Debug\netcoreapp2.1\Markdown.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\markdown\bin\Debug\netcoreapp2.1\Markdown.dll
+C:\Users\Chauh\Exercism\csharp\markdown\bin\Debug\netcoreapp2.1\Markdown.pdb
+C:\Users\Chauh\Exercism\csharp\markdown\obj\Debug\netcoreapp2.1\Markdown.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\markdown\obj\Debug\netcoreapp2.1\Markdown.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\markdown\obj\Debug\netcoreapp2.1\Markdown.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\markdown\obj\Debug\netcoreapp2.1\Markdown.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\markdown\obj\Debug\netcoreapp2.1\Markdown.dll
+C:\Users\Chauh\Exercism\csharp\markdown\obj\Debug\netcoreapp2.1\Markdown.pdb

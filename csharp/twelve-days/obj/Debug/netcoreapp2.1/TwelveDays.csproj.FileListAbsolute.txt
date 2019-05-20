@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\twelve-days\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\twelve-days\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\twelve-days\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\twelve-days\bin\Debug\netcoreapp2.1\TwelveDays.deps.json
+C:\Users\Chauh\Exercism\csharp\twelve-days\bin\Debug\netcoreapp2.1\TwelveDays.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\twelve-days\bin\Debug\netcoreapp2.1\TwelveDays.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\twelve-days\bin\Debug\netcoreapp2.1\TwelveDays.dll
+C:\Users\Chauh\Exercism\csharp\twelve-days\bin\Debug\netcoreapp2.1\TwelveDays.pdb
+C:\Users\Chauh\Exercism\csharp\twelve-days\obj\Debug\netcoreapp2.1\TwelveDays.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\twelve-days\obj\Debug\netcoreapp2.1\TwelveDays.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\twelve-days\obj\Debug\netcoreapp2.1\TwelveDays.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\twelve-days\obj\Debug\netcoreapp2.1\TwelveDays.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\twelve-days\obj\Debug\netcoreapp2.1\TwelveDays.dll
+C:\Users\Chauh\Exercism\csharp\twelve-days\obj\Debug\netcoreapp2.1\TwelveDays.pdb

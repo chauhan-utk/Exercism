@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\all-your-base\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\all-your-base\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\all-your-base\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\all-your-base\bin\Debug\netcoreapp2.1\AllYourBase.deps.json
+C:\Users\Chauh\Exercism\csharp\all-your-base\bin\Debug\netcoreapp2.1\AllYourBase.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\all-your-base\bin\Debug\netcoreapp2.1\AllYourBase.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\all-your-base\bin\Debug\netcoreapp2.1\AllYourBase.dll
+C:\Users\Chauh\Exercism\csharp\all-your-base\bin\Debug\netcoreapp2.1\AllYourBase.pdb
+C:\Users\Chauh\Exercism\csharp\all-your-base\obj\Debug\netcoreapp2.1\AllYourBase.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\all-your-base\obj\Debug\netcoreapp2.1\AllYourBase.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\all-your-base\obj\Debug\netcoreapp2.1\AllYourBase.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\all-your-base\obj\Debug\netcoreapp2.1\AllYourBase.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\all-your-base\obj\Debug\netcoreapp2.1\AllYourBase.dll
+C:\Users\Chauh\Exercism\csharp\all-your-base\obj\Debug\netcoreapp2.1\AllYourBase.pdb

@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\bin\Debug\netcoreapp2.1\AtbashCipher.deps.json
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\bin\Debug\netcoreapp2.1\AtbashCipher.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\bin\Debug\netcoreapp2.1\AtbashCipher.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\bin\Debug\netcoreapp2.1\AtbashCipher.dll
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\bin\Debug\netcoreapp2.1\AtbashCipher.pdb
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\obj\Debug\netcoreapp2.1\AtbashCipher.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\obj\Debug\netcoreapp2.1\AtbashCipher.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\obj\Debug\netcoreapp2.1\AtbashCipher.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\obj\Debug\netcoreapp2.1\AtbashCipher.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\obj\Debug\netcoreapp2.1\AtbashCipher.dll
+C:\Users\Chauh\Exercism\csharp\atbash-cipher\obj\Debug\netcoreapp2.1\AtbashCipher.pdb

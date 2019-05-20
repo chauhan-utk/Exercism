@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\matching-brackets\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\matching-brackets\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\matching-brackets\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\matching-brackets\bin\Debug\netcoreapp2.1\MatchingBrackets.deps.json
+C:\Users\Chauh\Exercism\csharp\matching-brackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\matching-brackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\matching-brackets\bin\Debug\netcoreapp2.1\MatchingBrackets.dll
+C:\Users\Chauh\Exercism\csharp\matching-brackets\bin\Debug\netcoreapp2.1\MatchingBrackets.pdb
+C:\Users\Chauh\Exercism\csharp\matching-brackets\obj\Debug\netcoreapp2.1\MatchingBrackets.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\matching-brackets\obj\Debug\netcoreapp2.1\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\matching-brackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\matching-brackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\matching-brackets\obj\Debug\netcoreapp2.1\MatchingBrackets.dll
+C:\Users\Chauh\Exercism\csharp\matching-brackets\obj\Debug\netcoreapp2.1\MatchingBrackets.pdb
