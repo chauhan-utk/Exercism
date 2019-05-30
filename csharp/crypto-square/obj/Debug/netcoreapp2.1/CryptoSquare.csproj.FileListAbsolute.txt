@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\crypto-square\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\crypto-square\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\crypto-square\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\crypto-square\bin\Debug\netcoreapp2.1\CryptoSquare.deps.json
+C:\Users\Chauh\Exercism\csharp\crypto-square\bin\Debug\netcoreapp2.1\CryptoSquare.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\crypto-square\bin\Debug\netcoreapp2.1\CryptoSquare.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\crypto-square\bin\Debug\netcoreapp2.1\CryptoSquare.dll
+C:\Users\Chauh\Exercism\csharp\crypto-square\bin\Debug\netcoreapp2.1\CryptoSquare.pdb
+C:\Users\Chauh\Exercism\csharp\crypto-square\obj\Debug\netcoreapp2.1\CryptoSquare.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\crypto-square\obj\Debug\netcoreapp2.1\CryptoSquare.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\crypto-square\obj\Debug\netcoreapp2.1\CryptoSquare.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\crypto-square\obj\Debug\netcoreapp2.1\CryptoSquare.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\crypto-square\obj\Debug\netcoreapp2.1\CryptoSquare.dll
+C:\Users\Chauh\Exercism\csharp\crypto-square\obj\Debug\netcoreapp2.1\CryptoSquare.pdb

@@ -12,3 +12,17 @@ C:\Users\utchauha\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.A
 C:\Users\utchauha\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.AssemblyInfo.cs
 C:\Users\utchauha\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.dll
 C:\Users\utchauha\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.pdb
+C:\Users\Chauh\Exercism\csharp\custom-set\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\custom-set\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\custom-set\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\custom-set\bin\Debug\netcoreapp2.1\CustomSet.deps.json
+C:\Users\Chauh\Exercism\csharp\custom-set\bin\Debug\netcoreapp2.1\CustomSet.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\custom-set\bin\Debug\netcoreapp2.1\CustomSet.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\custom-set\bin\Debug\netcoreapp2.1\CustomSet.dll
+C:\Users\Chauh\Exercism\csharp\custom-set\bin\Debug\netcoreapp2.1\CustomSet.pdb
+C:\Users\Chauh\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.dll
+C:\Users\Chauh\Exercism\csharp\custom-set\obj\Debug\netcoreapp2.1\CustomSet.pdb

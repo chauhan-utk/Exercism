@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\sublist\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\sublist\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\sublist\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\sublist\bin\Debug\netcoreapp2.1\Sublist.deps.json
+C:\Users\Chauh\Exercism\csharp\sublist\bin\Debug\netcoreapp2.1\Sublist.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\sublist\bin\Debug\netcoreapp2.1\Sublist.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\sublist\bin\Debug\netcoreapp2.1\Sublist.dll
+C:\Users\Chauh\Exercism\csharp\sublist\bin\Debug\netcoreapp2.1\Sublist.pdb
+C:\Users\Chauh\Exercism\csharp\sublist\obj\Debug\netcoreapp2.1\Sublist.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\sublist\obj\Debug\netcoreapp2.1\Sublist.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\sublist\obj\Debug\netcoreapp2.1\Sublist.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\sublist\obj\Debug\netcoreapp2.1\Sublist.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\sublist\obj\Debug\netcoreapp2.1\Sublist.dll
+C:\Users\Chauh\Exercism\csharp\sublist\obj\Debug\netcoreapp2.1\Sublist.pdb

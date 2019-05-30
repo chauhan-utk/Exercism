@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\tree-building\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\tree-building\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\tree-building\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\tree-building\bin\Debug\netcoreapp2.1\TreeBuilding.deps.json
+C:\Users\Chauh\Exercism\csharp\tree-building\bin\Debug\netcoreapp2.1\TreeBuilding.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\tree-building\bin\Debug\netcoreapp2.1\TreeBuilding.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\tree-building\bin\Debug\netcoreapp2.1\TreeBuilding.dll
+C:\Users\Chauh\Exercism\csharp\tree-building\bin\Debug\netcoreapp2.1\TreeBuilding.pdb
+C:\Users\Chauh\Exercism\csharp\tree-building\obj\Debug\netcoreapp2.1\TreeBuilding.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\tree-building\obj\Debug\netcoreapp2.1\TreeBuilding.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\tree-building\obj\Debug\netcoreapp2.1\TreeBuilding.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\tree-building\obj\Debug\netcoreapp2.1\TreeBuilding.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\tree-building\obj\Debug\netcoreapp2.1\TreeBuilding.dll
+C:\Users\Chauh\Exercism\csharp\tree-building\obj\Debug\netcoreapp2.1\TreeBuilding.pdb

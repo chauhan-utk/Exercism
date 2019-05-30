@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\ledger\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\ledger\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\ledger\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\ledger\bin\Debug\netcoreapp2.1\Ledger.deps.json
+C:\Users\Chauh\Exercism\csharp\ledger\bin\Debug\netcoreapp2.1\Ledger.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\ledger\bin\Debug\netcoreapp2.1\Ledger.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\ledger\bin\Debug\netcoreapp2.1\Ledger.dll
+C:\Users\Chauh\Exercism\csharp\ledger\bin\Debug\netcoreapp2.1\Ledger.pdb
+C:\Users\Chauh\Exercism\csharp\ledger\obj\Debug\netcoreapp2.1\Ledger.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\ledger\obj\Debug\netcoreapp2.1\Ledger.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\ledger\obj\Debug\netcoreapp2.1\Ledger.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\ledger\obj\Debug\netcoreapp2.1\Ledger.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\ledger\obj\Debug\netcoreapp2.1\Ledger.dll
+C:\Users\Chauh\Exercism\csharp\ledger\obj\Debug\netcoreapp2.1\Ledger.pdb

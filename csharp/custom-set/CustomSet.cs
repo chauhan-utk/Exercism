@@ -12,6 +12,26 @@ public class CustomSet
         }
     }
 
+    public override bool Equals(object obj)
+    {
+        if ((obj == null) || !this.GetType().Equals(obj.GetType()))
+            return false;
+        CustomSet tmp = (CustomSet)obj;
+        if (tmp.Hash.Count == 0 && this.hash.Count == 0)
+            return true;
+        if ((tmp.hash.Count != 0 && this.hash.Count == 0) || (tmp.hash.Count == 0 && this.hash.Count != 0))
+            return false;
+        foreach (int val in tmp.Hash)
+        {
+            if (!this.hash.Contains(val))
+                return false;
+        }
+        return true;
+    }
+    public CustomSet()
+    {
+        this.hash = new HashSet<int>();
+    }
     public CustomSet(HashSet<int> vals)
     {
         this.hash = vals;
@@ -45,7 +65,10 @@ public class CustomSet
 
     public bool Disjoint(CustomSet right)
     {
-        return this.Subset(right) ? false : true;
+        if (this.hash.Count == 0) return true;
+        HashSet<int> tmp = new HashSet<int>(this.hash);
+        tmp.IntersectWith(right.Hash);
+        return tmp.Count == 0 ? true : false;
     }
 
     public CustomSet Intersection(CustomSet right)
@@ -57,7 +80,14 @@ public class CustomSet
 
     public CustomSet Difference(CustomSet right)
     {
-        throw new NotImplementedException("You need to implement this function.");
+        CustomSet res = this.Intersection(right);
+        HashSet<int> res1 = new HashSet<int>();
+        foreach(int val in this.hash)
+        {
+            if (!right.Contains(val))
+                res1.Add(val);
+        }
+        return new CustomSet(res1);
     }
 
     public CustomSet Union(CustomSet right)

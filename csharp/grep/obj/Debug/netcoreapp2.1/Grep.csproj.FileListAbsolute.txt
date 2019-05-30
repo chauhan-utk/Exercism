@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\grep\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\grep\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\grep\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\grep\bin\Debug\netcoreapp2.1\Grep.deps.json
+C:\Users\Chauh\Exercism\csharp\grep\bin\Debug\netcoreapp2.1\Grep.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\grep\bin\Debug\netcoreapp2.1\Grep.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\grep\bin\Debug\netcoreapp2.1\Grep.dll
+C:\Users\Chauh\Exercism\csharp\grep\bin\Debug\netcoreapp2.1\Grep.pdb
+C:\Users\Chauh\Exercism\csharp\grep\obj\Debug\netcoreapp2.1\Grep.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\grep\obj\Debug\netcoreapp2.1\Grep.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\grep\obj\Debug\netcoreapp2.1\Grep.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\grep\obj\Debug\netcoreapp2.1\Grep.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\grep\obj\Debug\netcoreapp2.1\Grep.dll
+C:\Users\Chauh\Exercism\csharp\grep\obj\Debug\netcoreapp2.1\Grep.pdb

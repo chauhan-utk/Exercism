@@ -1,0 +1,14 @@
+C:\Users\Chauh\Exercism\csharp\dot-dsl\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Chauh\Exercism\csharp\dot-dsl\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\dot-dsl\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Chauh\Exercism\csharp\dot-dsl\bin\Debug\netcoreapp2.1\DotDsl.deps.json
+C:\Users\Chauh\Exercism\csharp\dot-dsl\bin\Debug\netcoreapp2.1\DotDsl.runtimeconfig.json
+C:\Users\Chauh\Exercism\csharp\dot-dsl\bin\Debug\netcoreapp2.1\DotDsl.runtimeconfig.dev.json
+C:\Users\Chauh\Exercism\csharp\dot-dsl\bin\Debug\netcoreapp2.1\DotDsl.dll
+C:\Users\Chauh\Exercism\csharp\dot-dsl\bin\Debug\netcoreapp2.1\DotDsl.pdb
+C:\Users\Chauh\Exercism\csharp\dot-dsl\obj\Debug\netcoreapp2.1\DotDsl.csprojAssemblyReference.cache
+C:\Users\Chauh\Exercism\csharp\dot-dsl\obj\Debug\netcoreapp2.1\DotDsl.csproj.CoreCompileInputs.cache
+C:\Users\Chauh\Exercism\csharp\dot-dsl\obj\Debug\netcoreapp2.1\DotDsl.AssemblyInfoInputs.cache
+C:\Users\Chauh\Exercism\csharp\dot-dsl\obj\Debug\netcoreapp2.1\DotDsl.AssemblyInfo.cs
+C:\Users\Chauh\Exercism\csharp\dot-dsl\obj\Debug\netcoreapp2.1\DotDsl.dll
+C:\Users\Chauh\Exercism\csharp\dot-dsl\obj\Debug\netcoreapp2.1\DotDsl.pdb
